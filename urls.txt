@@ -1,0 +1,15 @@
+
+User Links :
+http://localhost:3000/
+http://localhost:3000/signup
+http://localhost:3000/users/shopping
+http://localhost:3000/users/logout
+
+
+Admin Links:
+http://localhost:3000/
+http://localhost:3000/users/logout
+http://localhost:3000/users/shopping
+http://localhost:3000/users/userlist
+http://localhost:3000/api/auth/adduser
+http://localhost:3000/api/auth/addproduct
